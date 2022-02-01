@@ -9,7 +9,7 @@ public class TestaPontoFlutuante {
 		System.out.println(divisao);
 		
 		int outraDivisao =  5/2;
-		System.out.println(outraDivisao); 
+		System.out.println(outraDivisao);
 		
 		double novaTentativa =  5.0 / 2;
 		System.out.println(novaTentativa);
